@@ -1,0 +1,5 @@
+/Users/aeztor/CDI_test/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/SampleWebUiApplication.java
+/Users/aeztor/CDI_test/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/MessageRepository.java
+/Users/aeztor/CDI_test/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/mvc/MessageController.java
+/Users/aeztor/CDI_test/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/InMemoryMessageRepository.java
+/Users/aeztor/CDI_test/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/Message.java
